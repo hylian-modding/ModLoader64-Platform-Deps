@@ -1,0 +1,19 @@
+{
+  "name": "modloader64-platform-deps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hylian-modding/ModLoader64-Platform-Deps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hylian-modding/ModLoader64-Platform-Deps/issues"
+  },
+  "homepage": "https://github.com/hylian-modding/ModLoader64-Platform-Deps#readme"
+}
